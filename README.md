@@ -21,7 +21,7 @@ Built with React JS and Bootstrap 5
 
 Several quick start options are available:
 
-- [Download the latest branch]https://github.com/elliott314/ebuy.git)
+- [Download the latest branch](https://github.com/elliott314/ebuy.git)
 - Clone the repo: `git clonehttps://github.com/elliott314/ebuy.git`
 - Install with [npm](https://www.npmjs.com/): `npm install`
 - Runs the app in the development mode `npm start`
